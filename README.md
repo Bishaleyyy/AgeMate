@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bishaleyyy.github.io/AgeMate/">🌐 Live Demo</a> ·
+  <a href="https://bishaleyyy.github.io/AgeMate/">🌐 Live Demo</a>
 </p>
 
 ---
